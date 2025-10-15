@@ -6,7 +6,7 @@ This repository contains a research analysis document that examines the converge
 
 ## 🔗 Paper
 
-**[Constitutional AI & Persona Vectors Research Analysis](https://codepen.io/Jason-Fells/live/GgpmEYB/c0ae3d6f7b70b43105f456d64991ca87)**
+**[Constitutional AI & Persona Vectors Research Analysis](https://codepen.io/Jason-Fells/full/GgpmEYB/c0ae3d6f7b70b43105f456d64991ca87)**
 
 ---
 
