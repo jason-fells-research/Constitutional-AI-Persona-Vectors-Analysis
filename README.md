@@ -4,7 +4,7 @@ Insights into AI safety mechanisms, character trait control, and their integrati
 
 ## Contents
 
-The analysis itself, as this README (8.7 KB), and its licence (`LICENSE.md`). The same analysis sits in `ethraeon-master-repo-ecosystems/system-integration/constitutional-ai-persona-vectors/`.
+This README and its licence (`LICENSE.md`). The analysis itself is in `system-integration/constitutional-ai-persona-vectors/` of Ethraeon-Systems/ethraeon-master-repo-ecosystems.
 
 ## Location
 
